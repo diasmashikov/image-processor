@@ -11,14 +11,7 @@ it can calculate the crop surface area when using the binarization filter.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Dependencies](#dependencies)
-- [Configuration](#configuration)
-- [Documentation](#documentation)
 - [Examples](#examples)
-- [Troubleshooting](#troubleshooting)
-- [Skills](#skills)
-- [Contributors](#contributors)
-- [License](#license)
 
 ## Skills
 Java, Linear Algebra, Image Processing Techniques, OOP
@@ -52,7 +45,13 @@ Java, Linear Algebra, Image Processing Techniques, OOP
 - UnsharpFilter
 - Crop surface calculation
 
-
 ## Examples
-
+<img width="400" alt="Screenshot 2024-02-08 at 15 28 41" src="https://github.com/diasmashikov/ImageProcessing/assets/50723693/000172ef-839c-4f01-9d03-000530d466fb">
+<img width="400" alt="Screenshot 2024-02-08 at 15 28 58" src="https://github.com/diasmashikov/ImageProcessing/assets/50723693/e359aaa5-6baa-47fa-9e66-ddac4d738bf2">
+<img width="400" alt="Screenshot 2024-02-08 at 15 29 18" src="https://github.com/diasmashikov/ImageProcessing/assets/50723693/20de367a-c2d1-42b7-a789-aabb1bd0cb2c">
+<img width="400" alt="Screenshot 2024-02-08 at 15 29 30" src="https://github.com/diasmashikov/ImageProcessing/assets/50723693/f288fa27-1002-4e7f-9f59-6f5cdba29131">
+<img width="400" alt="Screenshot 2024-02-08 at 15 29 42" src="https://github.com/diasmashikov/ImageProcessing/assets/50723693/6846ebbc-d2bd-449a-a5f3-c5b559a628e2">
+<img width="400" alt="Screenshot 2024-02-08 at 15 30 12" src="https://github.com/diasmashikov/ImageProcessing/assets/50723693/ac0f85d0-eeea-4aa0-819d-601661034edd">
+<img width="400" alt="Screenshot 2024-02-08 at 15 31 15" src="https://github.com/diasmashikov/ImageProcessing/assets/50723693/43bb60b3-11da-4d06-89f5-97eceafa4dac">
+<img width="400" alt="Screenshot 2024-02-08 at 15 31 23" src="https://github.com/diasmashikov/ImageProcessing/assets/50723693/b8882bd6-8135-4774-a555-8c7972c2e1c4">
 
