@@ -1,7 +1,7 @@
-# Image Processing Application
+# Image Processor
 
 ## Introduction
-This Java application is designed for image processing using a variety of filters. 
+Image Processor is a Java application designed to utilize a wide variety of image processing filters on any uploaded images.
 It allows users to apply different transformations to images and, notably, 
 it can calculate the crop surface area when using the binarization filter.
 
